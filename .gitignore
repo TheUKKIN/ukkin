@@ -1,0 +1,9 @@
+# Keys never leave your machine, and never enter git
+.env
+# Your rooms are yours
+sessions/
+# Python noise
+__pycache__/
+*.pyc
+# macOS noise
+.DS_Store
